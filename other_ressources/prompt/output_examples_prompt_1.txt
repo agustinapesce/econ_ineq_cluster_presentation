@@ -1,0 +1,8 @@
+- Please respond with a JSON: 
+{"topic": "number","subtopic": "letter"} 
+
+# Example Outputs:
+1. Output for text about gender wage gaps:
+{"topic": "1","subtopic": "A"} 
+2. Output for text on Skimo income inequalities:
+{"topic": "1","subtopic": "none"}
