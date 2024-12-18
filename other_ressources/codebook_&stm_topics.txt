@@ -1,0 +1,69 @@
+1. Horizontal Inequalities:
+Disparities tied to a social identity. They highlight issues like unequal treatment in employment, historical and contemporary oppression, and marginalization.
+A. Gender (Topics 35 & 4): Gender disparities in work and family life.
+B. Race (Topics 23, 34, 38, & 8): Historical and ongoing racial injustices, including slavery, massacres, incarceration, reparations, and racial liberation.
+C. Religion (Topic 16): Religious themes and figures, encompassing Islam, Judaism, Catholicism or others.
+D. Immigration and Border Issues (Topic 24): Immigration themes, including undocumented individuals and borders policing.
+
+2. Macroeconomics:
+Policies and frameworks shaping national and global economies, including fiscal policies, trade, and labor markets.
+A. Budget and Fiscal Policy (Topic 3): Issues related to government spending, deficits, and fiscal strategies.
+B. Taxation (Topic 14): Tax brackets, deductions and estate taxes.
+C. Monetary Policy and Economic Recovery (Topic 25): Role of monetary policy and the Federal Reserve's in managing unemployment, recession, inflation and economic recovery.
+D. International Trade (Topic 27): Global trade issues, including tariffs, exports, and trade relations with other countries.
+
+3. Debt and Housing:
+Economic issues related to housing access, ownership, and the financial structures impacting homeownership, as well as the challenges posed by debt.
+A. Housing Status and Affordability (Topic 17): Homeownership and rental market conditions, including assistance programs like rental vouchers, efforts to support affordable housing, and barriers to homeownership
+B. Debt and Lending (Topic 28): Issues in borrowing and lending, including loans, foreclosure, and repayment, focusing on challenges faced by borrowers, the role of lenders, and the broader economic implications of debt.
+
+4. Corporations and Entrepreneurship:
+Different aspects of business operations, including entrepreneurship, corporate finance, excecutive pay and mergers and acquisitions.
+A. Entrepreneurship and Innovation (Topic 42): Role of entrepreneurs, innovation, startups, battery technology and venture capital.
+B. Corporate Finance and Compensations (Topic 5): Financial structures within corporations, including shareholder interests, stock compensation, executive compensation and bonuses and company performance and shareholder value.
+C. Mergers, Acquisitions, and Antitrust (Topic 45): Mergers, acquisitions, antitrust regulations, monopolies and fair competition in sectors like banking or others.
+
+5. Welfare State:
+The role of government programs in reducing economic inequality and promoting social well-being.
+A. Historical Development and current systems (Topic 6 & 39): Origins of welfare systems, reforms and political movements shaping their evolution. Societal efforts to enhance upward mobility and comparisons of system of redistribution.
+B. Entitlements and Poverty Alleviation (Topic 44): Programs addressing poverty and economic insecurity (e.g., unemployment benefits, supplemental nutrition support).
+C. Labor and Wages (Topic 9): Minimum wage debates, overtime pay, and turnover rates, for different earners and rungs in the ladder.
+D. Labor Unions and Worker Rights (Topic 22): Collective bargaining, unionization, and organization efforts for labor protections.
+
+6. Public Sector Employment:
+Inequalities within employment in the public sector and between the public and private sectors, including pay gaps, recruitment practices, and disparities in treatment.
+A. Federal and Other Forms of Public Employment (Topic 11 & 30): Civilian federal employees, military personnel, firefighters, police, and judiciary-related roles, addressing discriminatory practices, recruitment, supervisory challenges, and relevant legislative frameworks like the Federal Employees Pay Comparability Act of 1990.
+
+7. Discussions About Political Parties:
+Reflections on the U.S. Democratic, Republican and other parties, their candidates, members and supporters.
+A. Democrats, Republicans and Party Discussions (Topic 37): Discussions on the party's candidates running for the presidency and other offices, party members and supporters' proposals and ideas.
+
+8. Healthcare System:
+Components of the healthcare system, including insurance coverage, medical services, and public health challenges.
+A. Medicare and Health Insurance (Topic 19): Issues related the role of insurers and pharmaceuticals in providing medication and healthcare access (e.g. Medicare).
+B. Hospitals and Healthcare Providers (Topic 7): Examines hospitals, physicians, nurses, patient care and reimbursements.
+C. Public Health and Disease Management (Topic 43): Public health efforts towards diseases prevention, vaccination, and management, including COVID-19.
+
+9. Education System:
+Issues across all levels of education and policies affecting students and educational institutions.
+A. Early Childhood Education (Topic 32): Foundational education such as preschool and kindergarten, early learning and childhood development.
+B. Elementary Education and School Management (Topic 13): Discusses elementary school structure, management, and educational practices, including roles like superintendents and the influence of charter schools.
+C. Higher Education (Topic 20): Issues related to higher education, including bachelor’s and graduate degrees, for example in fields like STEM and others.
+
+10. Environment:
+Environmental issues like those related to energy production, emissions and pollution.
+A. Energy and Sustainability (Topic 36): Examines the environmental impact of energy sources, from traditional industries like oil and agriculture to renewable energy and addresses the role of emissions in climate change and the need for sustainable practices in farming and energy production.
+B. Pollution and Environmental Degradation (Topic 33): Focuses on the effects of pollution, particularly from transportation (e.g., airlines, highways, traffic), and its impact on natural spaces like forests, highlighting the consequences of environmental degradation. 
+
+11. International Issues:
+Global political dynamics, focusing on conflicts, diplomatic relations, and geopolitical concerns.
+A. Asia and Korean Peninsula (Topic 18): Political and military tensions between North and South Korea and broader regional contexts.
+B. Cold War and Global Politics (Topic 12): Examines the ideological rivalry between the Soviet Union and Western powers during the Cold War, covering themes like communism, socialism, diplomatic tensions, missile crises, and political repression.
+C. Iraq and U.S. Military Engagement (Topic 49): U.S. involvement in Iraq and Afghanistan, military operations, figures like President George W. Bush, and the economic and political ramifications.
+
+12. Art and Sports:
+Covers sports and cultural products, like films and music.
+A. Films and Cultural Products (Topic 26): Forms of artistic expression such as films, music, and literature.
+B. Sports (Topic 15): Sports like soccer and baseball, major events like the Olympics, and the role of athletes and teams.
+
+Boilerplate topics: 1, 2, 10, 21, 29, 31, 40, 41, 46, 47, 48, 50
